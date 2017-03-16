@@ -28,9 +28,9 @@ The latest version of Arduino IDE for your computer.
 ## Related Products
 * [Swift 3 Programming for Kids](https://www.packtpub.com/application-development/swift-3-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
 
-* [Swift 3 Programming for Kids](https://www.packtpub.com/application-development/swift-3-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
+* [Python Projects for Kids](https://www.packtpub.com/application-development/python-projects-kids?utm_source=github&utm_medium=repository&utm_campaign=9781782175063)
 
-* [Swift 3 Programming for Kids](https://www.packtpub.com/application-development/swift-3-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
+* [JavaScript Projects for Kids](https://www.packtpub.com/web-development/javascript-projects-kids?utm_source=github&utm_medium=repository&utm_campaign=9781785287176)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
