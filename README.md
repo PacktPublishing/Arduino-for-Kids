@@ -23,11 +23,7 @@ PUT /_snapshot/basic_logstash_repository
 }
 ```
 
-In this book, you will need to download and install the Elastic Stack, specifically,
-Elasticsearch, Kibana, Metricbeat, Logstash, and the X-Pack. All the software is available
-from the following page: http://www. elastic. co/downloads.
-The Elastic Stack can be run on a various environment on commodity machines; here is the
-support matrix: https://www. elastic. co/support/matrix.
+The latest version of Arduino IDE for your computer.
 
 ## Related Products
 * [Swift 3 Programming for Kids](https://www.packtpub.com/application-development/swift-3-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
