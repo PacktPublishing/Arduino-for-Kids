@@ -1,9 +1,7 @@
 # Arduino for Kids
 This is the code repository for [Arduino for Kids](https://www.packtpub.com/hardware-and-creative/arduino-kids?utm_source=github&utm_medium=repository&utm_campaign=9781785884818), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
-The mission of this book is to integrate technology with the tools that children already use for crafts so that they feel technology is an extension of their playtime. We use coding, sensors, and micro-controllers integrated with art and craft supplies, origami, and playdough. There are 10 fun-filled chapters that talk to children directly, and give clear instructions for non-technical parents too.
-
-
+The mission of this book is to integrate technology with the tools that children already use for crafts so that they feel that the technology is an extension of their playtime. We use coding, sensors, and micro-controllers integrated with art and craft supplies, origami, and Playdough. There are 10 fun-filled chapters that talk to children directly, and give clear instructions for non-technical parents too.
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
 
@@ -11,22 +9,24 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 The code will look like the following:
 ```
-PUT /_snapshot/basic_logstash_repository
-{
- "type": "fs",
- "settings": {
- "location":
- "/Users/bahaaldine/Dropbox/Packt/sources/chapter3/
- basic_logstash_repository",
- "compress": true
- }
+int pin = 13;
+void setup() {
+ // put your setup code here, to run once:
+ pinMode(pin,OUTPUT);
+}
+void loop() {
+ // put your main code here, to run repeatedly:
+dot();dot();dot();
+dash();dash();dash();
+dot();dot();dot();
+delay(3000);
 }
 ```
 
 The latest version of Arduino IDE for your computer.
 
 ## Related Products
-* [Swift 3 Programming for Kids](https://www.packtpub.com/application-development/swift-3-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
+* [Swift iOS Programming for Kids](https://www.packtpub.com/application-development/swift-ios-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747)
 
 * [Python Projects for Kids](https://www.packtpub.com/application-development/python-projects-kids?utm_source=github&utm_medium=repository&utm_campaign=9781782175063)
 
